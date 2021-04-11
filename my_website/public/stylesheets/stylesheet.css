@@ -1,0 +1,102 @@
+.nav {
+    background: rgba(0, 0, 0, 0.4);
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+.nav ba {
+    text-align: center;
+    padding: 14px 2px;
+    font-size: 17px;
+    font-family: 'Century Gothic',sans-serif;
+}
+
+.nav a {
+    color: #f2f2f2;
+    display: inline-block;
+    padding: 10px;
+    text-decoration:none;
+}
+
+.nav a:hover {
+    background-color: #b9b9b9;
+    color: black;
+}
+
+.nav a.active {
+    background-color: #71EEB8;
+    color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../images/ocean.jpg");
+  background-size: cover;
+}
+
+.box {
+  width: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 2.5%;
+  color: white;
+  font-family: 'Century Gothic', sans-serif;
+}
+
+.box-img {
+  width: 200px;
+  height: 200px;
+}
+
+.box h1 {
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+
+.box h4 {
+  font-size: 30px;
+  letter-spacing: 2px;
+  font-weight: 80;
+  color: orange;
+}
+
+.box h5 {
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+
+.box interests-text {
+  margin-top: -15px;
+}
+
+.box p {
+  text-align: justify;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.box li {
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+
+.box li a {
+  color: white;
+  text-decoration: none;
+  font-size: 60px;
+  transition: all ease-in-out 250ms;
+}
+
+.box li a:hover {
+  color: #b9b9b9;
+}
