@@ -21,4 +21,8 @@ class SiteController @Inject()(val controllerComponents: ControllerComponents) e
   def interests() = Action { implicit request: Request[AnyContent] =>
     Ok(views.html.interests())
   }
+
+  def resume() = Action { implicit request: Request[AnyContent] =>
+    Ok(views.html.resume())
+  }
 }

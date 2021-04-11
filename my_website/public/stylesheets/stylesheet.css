@@ -36,6 +36,14 @@ body {
   background-size: cover;
 }
 
+body.interests {
+  background-image: url("../images/pastel.jpg");
+}
+
+body.resume {
+  background-image: url("../images/google_ocean.jpg");
+}
+
 .box {
   width: 450px;
   background: rgba(0, 0, 0, 0.4);
@@ -62,7 +70,7 @@ body {
   font-size: 30px;
   letter-spacing: 2px;
   font-weight: 80;
-  color: orange;
+  color: #71EEB8;
 }
 
 .box h5 {
