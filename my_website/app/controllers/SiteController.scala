@@ -25,4 +25,8 @@ class SiteController @Inject()(val controllerComponents: ControllerComponents) e
   def resume() = Action { implicit request: Request[AnyContent] =>
     Ok(views.html.resume())
   }
+
+  def chile() = Action { implicit request: Request[AnyContent] =>
+    Ok(views.html.chile())
+  }
 }

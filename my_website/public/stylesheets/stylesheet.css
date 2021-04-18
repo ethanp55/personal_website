@@ -44,6 +44,10 @@ body.resume {
   background-image: url("../images/google_ocean.jpg");
 }
 
+body.chile {
+  background-image: url("../images/pastel.jpg");
+}
+
 .box {
   width: 450px;
   background: rgba(0, 0, 0, 0.4);
