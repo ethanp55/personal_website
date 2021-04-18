@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1479d43-ac5d-41a9-80ce-9605e73fd53e" name="Default Changelist" comment="Add resume page and a few minor updates on the interests page.">
-      <change afterPath="$PROJECT_DIR$/my_website/app/views/chile.scala.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/asado.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/campo.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/cartagena.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/cat.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/completos.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/mate.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/quisco-pool.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/san-antonio.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/santa-lucia.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/santiago-architecture.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/santiago-skyscraper.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/santiago-temple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/santiago.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_website/public/images/sword.JPG" afterDir="false" />
+    <list default="true" id="c1479d43-ac5d-41a9-80ce-9605e73fd53e" name="Default Changelist" comment="Add Chile page.">
+      <change afterPath="$PROJECT_DIR$/my_website/public/images/google-ocean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_website/public/images/google-play.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_website/app/controllers/SiteController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/my_website/app/controllers/SiteController.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_website/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/my_website/conf/routes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_website/app/views/chile.scala.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_website/app/views/chile.scala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_website/app/views/homepage.scala.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_website/app/views/homepage.scala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_website/app/views/index.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_website/app/views/interests.scala.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_website/app/views/interests.scala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_website/app/views/main.scala.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_website/app/views/resume.scala.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_website/app/views/resume.scala.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_website/public/images/google_ocean.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my_website/public/stylesheets/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/my_website/public/stylesheets/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +37,15 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1pSPXxxTNCzI2IbhVeQt5k5LhTf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/my_website/public/images" />
@@ -84,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618120181019</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Chile page.">
+      <created>1618712096912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618712096912</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -103,8 +105,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add initial website with home page and interests/hobbies page." />
     <MESSAGE value="Add resume page and a few minor updates on the interests page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add resume page and a few minor updates on the interests page." />
+    <MESSAGE value="Add Chile page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Chile page." />
   </component>
 </project>
